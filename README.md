@@ -1,5 +1,7 @@
 # Algorithms for Massive Datasets - Project 2: Market-basket analysis
 
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3120/)
+[![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=for-the-badge)](https://spark.apache.org/docs/latest/quick-start.html)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sabaudian/AMD_Market_Basket_Analysis/blob/main/AMD_project.ipynb)
 
 ## Summary
